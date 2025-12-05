@@ -19,5 +19,5 @@ Projeto em Python utilizando Tkinter para interface gráfica e MySQL para armaze
 1. Configure o MySQL com usuário, senha e banco `academico`.
 2. Clone o repositório:
    ```bash
-   git clone https://github.com/thayanacleto/nome-do-repo.git
+   git clone https://github.com/thayanacleto/controle-eventos-python.git
 
